@@ -77,12 +77,8 @@ public class FindSecondLargestNumberFrmArray {
 			 if(numberz[i] != largest && numberz[i] > secondLargest) {
 				 secondLargest = numberz[i];
 			 }
-			 
-			 
-		
-		
-			
 		}
+		
 		if(secondLargest == Integer.MAX_VALUE) {	 
 			 System.out.println("Second largest element does not exist");
 			 }else {
