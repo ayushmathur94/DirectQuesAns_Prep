@@ -12,9 +12,8 @@ Abstract method: can only be used in an abstract class, and it does not have a b
 	
 	 */
 	
-	
 	public abstract void brandNames();
-	
+		
 	
 	
 	
